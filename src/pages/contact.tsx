@@ -20,11 +20,11 @@ const contacts = [
     alt: 'github icon',
     link: 'https://github.com/ats030',
   },
-  #{
-  #  Comp: LinkedIn,
-  #  alt: 'linkedin icon',
-  #  link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
-  #},
+  {
+    Comp: LinkedIn,
+    alt: 'linkedin icon',
+    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
+  },
   {
     Comp: Envelope,
     alt: 'envelope icon',
