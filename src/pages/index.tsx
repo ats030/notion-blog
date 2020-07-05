@@ -16,7 +16,7 @@ export default () => (
         alt="Vercel + Notion"
       />
       <h1>My Notion Blog</h1>
-      {*/
+      {/*
       <h2>
         Blazing Fast Notion Blog with Next.js'{' '}
         <ExtLink
