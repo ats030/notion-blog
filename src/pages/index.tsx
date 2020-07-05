@@ -16,6 +16,7 @@ export default () => (
         alt="Vercel + Notion"
       />
       <h1>My Notion Blog</h1>
+      {*/
       <h2>
         Blazing Fast Notion Blog with Next.js'{' '}
         <ExtLink
@@ -26,9 +27,11 @@ export default () => (
           SSG
         </ExtLink>
       </h2>
+      */}
 
       <Features />
 
+      {/*
       <div className="explanation">
         <p>
           This is a statically generated{' '}
@@ -62,6 +65,7 @@ export default () => (
           go!
         </p>
       </div>
+      */}
     </div>
   </>
 )
