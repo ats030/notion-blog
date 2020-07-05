@@ -21,11 +21,6 @@ const contacts = [
     link: 'https://github.com/ats030',
   },
   {
-    Comp: LinkedIn,
-    alt: 'linkedin icon',
-    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
-  },
-  {
     Comp: Envelope,
     alt: 'envelope icon',
     link: 'mailto:ats030@gmail.com',
@@ -44,8 +39,6 @@ export default () => (
 
       <div className={contactStyles.name}>
         ats030
-        #JJ Kasper - Next.js Engineer @{' '}
-        #<ExtLink href="https://vercel.com">Vercel</ExtLink>
       </div>
 
       <div className={contactStyles.links}>
